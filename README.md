@@ -16,6 +16,5 @@
 - 📖 I’m Focus on Website Development;
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
-
-#### 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=verssache)](https://github.com/ryo-ma/github-profile-trophy)
+----
+![ii64 github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ii64)
