@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:gidhanbagusalgary@gmail.com)
 [![Github](https://img.shields.io/badge/--github?label=Github%27s%20Page&logo=Github&style=social)](https://www.wirkel.com/)
 ----
-**A person that has a lot of interest especially in backend, security, etc！✨** 
+A person that has a lot of interest especially in backend, security, etc！✨
 #### 📋 Current Activity
 - 📖 I’m Focus on Website Development;
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
