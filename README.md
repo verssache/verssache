@@ -1,5 +1,4 @@
 ### Hi I'm Gidhan 👋
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=verssache&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=verssache)
 [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/mrlverssache/) 
@@ -7,11 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/gidhan/)
 [![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:gidhanbagusalgary@gmail.com)
 [![Github](https://img.shields.io/badge/--github?label=Github%27s%20Page&logo=Github&style=social)](https://www.wirkel.com/)
-
 ----
-
-> **<em>✨ I live in Central Java - Indonesia, I'm currently a student who wants to be someone that is helpful to everyone. 😊</em>** 
-
+**A person that has a lot of interest especially in backend, security, etc！✨** 
 #### 📋 Current Activity
 - 📖 I’m Focus on Website Development;
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
