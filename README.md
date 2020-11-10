@@ -17,4 +17,5 @@
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 ----
-![verssache github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=verssache)
+#### 🏆 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=verssache)](https://github.com/ryo-ma/github-profile-trophy)
