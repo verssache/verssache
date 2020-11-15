@@ -2,10 +2,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=verssache&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=verssache)
 [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/mrlverssache/) 
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/gidhan/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/gidhan/) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/gidhan/)
-[![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:gidhanbagusalgary@gmail.com)
-[![Github](https://img.shields.io/badge/--github?label=Github%27s%20Page&logo=Github&style=social)](https://www.wirkel.com/)
+
 ----
 A person that has a lot of interest especially in backend, security, etc！✨
 #### 📋 Current Activity
@@ -13,5 +12,12 @@ A person that has a lot of interest especially in backend, security, etc！✨
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 ----
-#### 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=verssache)](https://github.com/ryo-ma/github-profile-trophy)
+#### 📈 My Stats
+<p align='center'>
+  <a href="https://github.com/verssache/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verssache&layout=compact" alt="verssache's github stats"/>
+  </a>
+  <a href="https://github.com/verssache/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=verssache&hide=issues&count_private=true&show_icons=true" alt="verssache's github stats" />
+  </a>
+</p>
