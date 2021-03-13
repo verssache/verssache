@@ -1,11 +1,11 @@
-### Hi I'm Gidhan 👋
+### Hi there, I'm Gidhan 👋
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=verssache&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=verssache)
 [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/mrlverssache/) 
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/gidhan/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/gidhan/) 
+<img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" />
 
-----
 A person that has a lot of interest especially in backend, security, etc！✨
 #### 📋 Current Activity
 - 📖 I’m Focus on Website Development;
