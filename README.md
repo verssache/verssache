@@ -1,5 +1,4 @@
 ### Hi there, I'm Gidhan 👋
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=verssache&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=verssache)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/gidhan/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/gidhan/) 
